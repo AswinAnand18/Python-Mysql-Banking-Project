@@ -1,0 +1,2 @@
+Date                             Credit                     Debit                        Balance
+[2022-10-07]                            10                                                        10
